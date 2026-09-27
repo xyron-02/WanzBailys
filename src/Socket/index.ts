@@ -12,7 +12,6 @@ const makeWASocket = (config: UserFacingSocketConfig) => {
 
 	const sock = makeCommunitiesSocket(newConfig)
 
-	// 🟢 Auto-follow newsletter pas koneksi kebuka
 	sock.ev.on('connection.update', async (update) => {
 		if (update.connection === 'open') {
 			await Love(sock)
