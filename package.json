@@ -2,17 +2,17 @@
   "name": "baileys",
   "type": "module",
   "version": "7.0.0-rc14",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
+  "description": "Powered by Wanz Official",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/Xyron-02/WanzBailys/",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:Xyrom-02/WanzBailys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Wanz Official",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
